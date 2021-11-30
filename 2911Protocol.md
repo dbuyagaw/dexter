@@ -8,9 +8,12 @@
 
 **About the Data Analytics Bootcamp**
 - What to expect in this bootcamp
+  - participation
+  - code of conduct
+  - Pair/ group work
 - Milestones/ Journey
 - Modules
-- Pair/ Group work/ programming
+
 
 **Getting familiar with Macbook**
 - Setting up the laptop
@@ -19,6 +22,9 @@
 **Useful features of Zoom**
 - basic functions
 - sharing screen
+
+**Slack**
+- using Slack as the virtual classroom
 
 **Intro to Github**
 - What is Github?
